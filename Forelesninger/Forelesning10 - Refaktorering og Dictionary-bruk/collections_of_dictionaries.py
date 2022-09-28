@@ -18,3 +18,5 @@ print()
 print(games[0])
 # Skriver ut første element i spill-listen (dictionarien) sin sjanger ved å referere til nøkkelen "genre".
 print(games[0]["genre"])
+
+# Denne filen fortsettes i forelesning 11
